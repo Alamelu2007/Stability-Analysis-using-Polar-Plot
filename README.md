@@ -25,6 +25,7 @@ Computer with MATLAB software
 ## Output:
 <img width="380" height="707" alt="Screenshot 2026-09-03 141953" src="https://github.com/user-attachments/assets/9fce525a-d259-48b5-8a4a-52aa946c8bbc" />
 <img width="685" height="567" alt="Screenshot 2026-09-03 141938" src="https://github.com/user-attachments/assets/f84bd192-c527-4c65-956b-6ed5f780e7f2" />
+<img width="1600" height="974" alt="image" src="https://github.com/user-attachments/assets/718194b1-ddb9-4436-9212-54a58fca60ad" />
 
 ## Result:
 Thus the polar plot for the given transfer function was drawn and verified using MATLAB. 
